@@ -36,7 +36,7 @@
 #include <getopt.h>
 #include "rtapi.h"
 #include "hal.h"
-#include <modbus.h>
+#include <modbus/modbus.h>
 #include <math.h>
 
 /* Read Registers:
